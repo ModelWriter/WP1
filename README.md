@@ -2,7 +2,7 @@ Work Package 1
 ===
 **Work Package 1  - Industrial Use Cases and Requirements (AirBus)**
 
-Product Backlog of WP1: https://waffle.io/modelwriter/wp1
+Product Backlog of WP1: https://waffle.io/ModelWriter/WP1
 
 **Objectives**  
 
