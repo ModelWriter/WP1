@@ -2,6 +2,8 @@ Work Package 1
 ===
 **Work Package 1  - Industrial Use Cases and Requirements (AirBus)**
 
+Product Backlog of WP1: https://waffle.io/modelwriter/wp1
+
 **Objectives**  
 
 The primary objective of this WP is to describe and define the industrial, real life Use Cases and the associated requirements. These Industrial Use Cases will drive and justify all the other activities (WPs) of this project. This objective is broken down into the following sub-objectives:
