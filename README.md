@@ -2,7 +2,9 @@ Work Package 1
 ===
 **Work Package 1  - Industrial Use Cases and Requirements (AirBus)**
 
-Product Backlog of WP1: https://waffle.io/ModelWriter/WP1
+[`Product Backlog of WP1`](https://waffle.io/ModelWriter/WP1)
+
+The product backlog itself is implemented in the [`issue tracker`](https://github.com/modelwriter/wp1/issues) of this repository
 
 **Objectives**  
 
