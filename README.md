@@ -3,7 +3,7 @@ WP1
 
 **Work Package 1 - Industrial Use Cases and Requirements (UNIT or AirBus)**
 
-***Objectives***
+**_Objectives_**
 The primary objective of this WP is to describe and define the industrial, real life Use Cases and the associated requirements. These Industrial Use Cases will drive and justify all the other activities (WPs) of this project. This objective is broken down into the following sub-objectives:
  * To gather Industrial Use Cases from all the industrial partners. These need to be illustrated by sample material (e.g. pieces of software or system lifecycle documents and/or models) resulting in Corpora.
  * To formalize and prioritize User Requirements (incl. commercial requirements) on ModelWriter platform.
